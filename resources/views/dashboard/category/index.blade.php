@@ -8,7 +8,7 @@
         <br>
         <hr>
        
-        <div class="bg-success p-2 text-dark bg-opacity-25" id="text1" >CATEGORIAS</div>
+        <div class="bg-success p-2 text-dark bg-opacity-25" id="text1" >CATEGORIAS DE PRODUCTOS </div>
         <br>
         <br>
         <a href="{{url('dashboard/category/create')}}" class="btn btn-success" id="text2" >NUEVA CATEGORIA</a>
